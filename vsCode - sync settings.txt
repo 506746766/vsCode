@@ -1,0 +1,8 @@
+1.  参考文档 https://www.jianshu.com/p/3e12eb154b89
+
+2.  安装拓展 Settings Sync
+
+3.  账号  密码
+     Gist ID 17e6a55639830f511c3acee6cec6aa97
+
+     Access Token 9bd88de7d66750412deb7ba9470fd898da139aa6
